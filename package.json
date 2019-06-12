@@ -1,0 +1,13 @@
+{
+  "name": "@xh/browserslist-config",
+  "version": "1.0.0-SNAPSHOT",
+  "description": "Sharable base browserslist config for Hoist React applications",
+  "repository": "github:exhi/browserslist-config",
+  "homepage": "https://xh.io",
+  "bugs": "https://github.com/exhi/browserslist-config/issues",
+  "author": "Extremely Heavy Industries, Inc.",
+  "license": "UNLICENSED",
+  "files": [
+    "index.js"
+  ]
+}
