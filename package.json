@@ -1,6 +1,6 @@
 {
   "name": "@xh/browserslist-config",
-  "version": "1.0.0-SNAPSHOT",
+  "version": "0.0.1",
   "description": "Sharable base browserslist config for Hoist React applications",
   "repository": "github:exhi/browserslist-config",
   "homepage": "https://xh.io",
